@@ -74,6 +74,20 @@
   opacity: 1;
   text-align: left;
 }
+.v102_0 {
+  width: 961px;
+  height: 479px;
+  background: url("../images/v102_0.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 58px;
+  left: 358px;
+  overflow: hidden;
+}
+
 
 a {
     color: rgba(0,0,0,1);
