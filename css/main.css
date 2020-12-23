@@ -94,11 +94,10 @@ a {
     text-decoration: none;
 }
 
-a:hover
-{
+a:hover {
      color:rgba(0,0,0,1);
      text-decoration:none;
-     cursor:pointer;
+     cursor:crosshair;
 }
 .underline {
   text-decoration: underline;
