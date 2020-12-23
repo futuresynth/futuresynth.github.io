@@ -15,7 +15,7 @@
 }
 .v11_4 {
   width: 210px;
-  height: 171px;
+  height: 379px;
   background: url("../images/v11_4.png");
   background-repeat: no-repeat;
   background-position: center center;
@@ -39,7 +39,7 @@
   text-align: left;
 }
 .v6_2 {
-  width: 100px;
+  width: 129px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 41px;
@@ -54,7 +54,7 @@
   width: 122px;
   color: rgba(187,187,187,1);
   position: absolute;
-  top: 331px;
+  top: 351px;
   left: 20px;
   font-family: Roboto;
   font-weight: Regular;
@@ -66,7 +66,7 @@
   width: 218px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 313px;
+  top: 333px;
   left: 20px;
   font-family: Roboto;
   font-weight: Regular;
