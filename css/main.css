@@ -74,3 +74,22 @@
   opacity: 1;
   text-align: left;
 }
+
+a {
+    color: rgba(0,0,0,1);
+    text-decoration: none;
+}
+
+a:hover
+{
+     color:rgba(0,0,0,1);
+     text-decoration:none;
+     cursor:pointer;
+}
+.underline {
+  text-decoration: underline;
+}
+
+.underline:hover {
+  text-decoration: underline;
+}
